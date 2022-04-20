@@ -10,7 +10,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 ## Track 2: Tracked-Vehicle Retrieval by Natural Language Descriptions
 * [MegVideo - Team183](https://github.com/hbchen121/AICITY2022_Track2_SSM)
 * [TSL-AI - Team10](https://github.com/Katherinaxxx/2022AICITY_T2)
-* [HCMUS - Team91](https://github.com/nhtlongcs/AIC2022-VER) (Private repo, won't be evaluated nor considered for winning)
+* [HCMUS - Team91](https://github.com/nhtlongcs/AIC2022-VER)
 * [BUPT_MCPRL_T2](https://github.com/dyhBUPT/OMG) 
 * [Team176](https://github.com/convnets/MGRS) (Private repo, won't be evaluated nor considered for winning)
 
