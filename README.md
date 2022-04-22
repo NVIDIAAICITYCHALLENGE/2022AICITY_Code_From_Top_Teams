@@ -21,6 +21,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 * [VTCC-uTVM](https://github.com/VTCC-uTVM/2022AICityChallenge-Track3) ([separate data process repo](https://github.com/VTCC-uTVM/data)) (Private repo, won't be evaluated nor considered for winning)
 * [aicity-MV-TAL](https://github.com/oppoVisualAnalysisOfHumans/aicity-MV-TAL/tree/main) (Private repo, won't be evaluated nor considered for winning)
 * [Stargazer](https://github.com/JunweiLiang/aicity_action) (Private repo, won't be evaluated nor considered for winning)
+* [Team1](https://github.com/davidanastasiu/kndar)
 
 
 ## Track 4: Multi-Class Product Counting & Recognition for Automated Retail Checkout
