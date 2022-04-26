@@ -27,7 +27,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 
 ## Track 4: Multi-Class Product Counting & Recognition for Automated Retail Checkout
 * [SKKU Automation Lab - Team94](https://github.com/phlong3105/aic22_track4 )
-* [AICLUB@UIT - Team32](https://github.com/hungnt14/aicity2022) (Private repo, won't be evaluated nor considered for winning)
+* [AICLUB@UIT - Team32](https://github.com/hungnt14/aicity2022)
 * [Team170](https://github.com/bomerzz/PanXUofg_AI_City) (Private repo, won't be evaluated nor considered for winning)
 * [The Nabeelians](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
 * [DTC](https://github.com/w-sugar/DTC_AICITY2022)
