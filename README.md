@@ -3,7 +3,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 
 ## Track 1: City-Scale Multi-Camera Vehicle Tracking
 * [TSL-AI - Team10](https://github.com/royukira/AIC22_Track1_MTMC_ID10)
-* [TAG](https://github.com/backkon/AICITY2022_Track1_TAG) (Private repo, won't be evaluated nor considered for winning)
+* [TAG](https://github.com/backkon/AICITY2022_Track1_TAG)
 * [Team28](https://github.com/Yejin0111/AICITY2022-Track1-MTMC)
 * [Team94](https://github.com/DuongTran1708/AIC22_Track_1_MTMC)
 
