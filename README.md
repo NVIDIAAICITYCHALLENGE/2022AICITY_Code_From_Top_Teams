@@ -15,6 +15,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 * [HCMUS - Team91](https://github.com/nhtlongcs/AIC2022-VER)
 * [BUPT_MCPRL_T2](https://github.com/dyhBUPT/OMG) 
 * [Team176](https://github.com/Zhangjiacheng144/MGRS)
+* [HCMIU-CVIP - Team4](https://github.com/zef1611/AIC22_Track2_HCMIU-CVIP) (Private repo, won't be evaluated nor considered for winning)
 
 
 ## Track 3: Naturalistic Driving Action Recognition
