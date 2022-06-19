@@ -24,7 +24,7 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 * [aicity-MV-TAL](https://github.com/oppoVisualAnalysisOfHumans/aicity-MV-TAL/tree/main) (Private repo, won't be evaluated nor considered for winning)
 * [Stargazer - Team43](https://github.com/JunweiLiang/aicity_action)
 * [Team1](https://github.com/davidanastasiu/kndar)
-* [Team94](https://github.com/cybercore-co-ltd/AICity2022-Track3)
+* [Team97](https://github.com/cybercore-co-ltd/AICity2022-Track3)
 * [Winter is Coming - Team106](https://github.com/gcding/AICity-2022-Track3) (Private repo, won't be evaluated nor considered for winning)
 * [Tahakom - Team95](https://github.com/Shahad24/AICITY2022_Track3_Team95)
 
