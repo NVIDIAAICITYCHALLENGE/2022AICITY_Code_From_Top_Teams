@@ -20,9 +20,9 @@ codes from top teams of AI City Challenge 2022 (not in any particular order)
 
 ## Track 3: Naturalistic Driving Action Recognition
 * [BUPT-MCPRL2 - Team16](https://github.com/1585231086/PAND-Precise-Action-Recognition-on-Naturalistic-Driving)
-* [VTCC-uTVM](https://github.com/VTCC-uTVM/2022AICityChallenge-Track3)
+* [VTCC-uTVM - Team72](https://github.com/VTCC-uTVM/2022AICityChallenge-Track3)
 * [aicity-MV-TAL](https://github.com/oppoVisualAnalysisOfHumans/aicity-MV-TAL/tree/main) (Private repo, won't be evaluated nor considered for winning)
-* [Stargazer](https://github.com/JunweiLiang/aicity_action)
+* [Stargazer - Team43](https://github.com/JunweiLiang/aicity_action)
 * [Team1](https://github.com/davidanastasiu/kndar)
 * [Team94](https://github.com/cybercore-co-ltd/AICity2022-Track3)
 * [Winter is Coming - Team106](https://github.com/gcding/AICity-2022-Track3) (Private repo, won't be evaluated nor considered for winning)
